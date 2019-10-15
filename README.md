@@ -40,7 +40,7 @@ In this project i had used MATLAB-Simulik and SOLIDWORS to design the robot arm,
 
 ![image](https://user-images.githubusercontent.com/39106620/66841761-13d3ec80-ef62-11e9-847e-3478b3cedf71.png)
 
-### **GUI with MATLAB :**
+### **APP with MATLAB :**
 
 ![IHM](https://user-images.githubusercontent.com/39106620/66841953-5990b500-ef62-11e9-959e-4ac9a2f069a6.PNG)
 
