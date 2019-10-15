@@ -28,10 +28,20 @@ In this project i had used MATLAB-Simulik and SOLIDWORS to design the robot arm,
 
 ![image](https://user-images.githubusercontent.com/39106620/66840916-b7bc9880-ef60-11e9-82d2-dc73bcf62100.png)
 
-**1.FORWARD KINEMATICS :**
+**2.FORWARD KINEMATICS :**
 
 ![image](https://user-images.githubusercontent.com/39106620/66841074-079b5f80-ef61-11e9-9285-93b339371ec0.png)
 
 ![image](https://user-images.githubusercontent.com/39106620/66841143-239f0100-ef61-11e9-8f0d-18b3af04c285.png)
 
+**3.INVERSE KINEMATICS :**
 
+![image](https://user-images.githubusercontent.com/39106620/66841810-22220880-ef62-11e9-8c88-0f002cc67747.png)
+
+![image](https://user-images.githubusercontent.com/39106620/66841761-13d3ec80-ef62-11e9-847e-3478b3cedf71.png)
+
+### GUI with MATLAB :
+
+![IHM](https://user-images.githubusercontent.com/39106620/66841953-5990b500-ef62-11e9-959e-4ac9a2f069a6.PNG)
+
+![execute](https://user-images.githubusercontent.com/39106620/66841961-5c8ba580-ef62-11e9-8345-0d222bba61a3.PNG)
